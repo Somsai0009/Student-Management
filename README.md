@@ -1,25 +1,7 @@
-<H1 align ="center" > MERN STUDENT MANAGEMENT SYSTEM </h1>
-<h5  align ="center"> 
-<br/>
-## Configuration and Setup
-
-- cd Backend and Set environment variables in .env
-- Create your mongoDB connection url, which you'll use as your MONGO_URL
-- S
-
-```
-#  ---  Config.env  ---
-PORT =8070
-MONGO_URL =
-```
-```
-# --- Terminal ---
-
-$ npm install (to install backend-side dependencies)
-$ npm start (to start the backend)
-```
-
+High Level Design
+![Uploading Screenshot 2023-12-29 at 2.48.12 AM.png…]()
 ##  Key Features
+
 
 - Add Student
 - Edit Student
