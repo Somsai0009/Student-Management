@@ -1,7 +1,20 @@
 High Level Design
 
    ![Uploading Screenshot 2023-12-29 at 2.48.12 AM.png…]()
+- cd Backend and Set environment variables in .env
+- Create  mongoDB connection url, which you'll use as your MONGO_URL
 
+```
+#  ---  Config.env  ---
+PORT =8070
+MONGO_URL =
+```
+```
+# --- Terminal ---
+
+$ npm install (to install backend-side dependencies)
+$ npm start (to start the backend)
+```
    
 ##  Key Features
 
