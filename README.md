@@ -6,13 +6,15 @@ High Level Design
 ##  Key Features
 
 
-- Add Student
-- Edit Student
-- Remove Student
-- No Student Page
-- 404 Page and many more
-- Responsive Design
-
+- Admin Login     : localhost:8070/admin/login
+- Admin adding Student: localhost:8070/admin/add/student
+- All Students    : localhost:8070/admin/get/Students/
+- update          : localhost:8070/admin/update/658da56a954b6a29b867ad31
+- Delete Student  : localhost:8070/admin/delete/658dbbad54ed6084d7c43bff
+- Task assigning  : localhost:8070/admin/task/assign/658da56a954b6a29b867ad31
+- Student Login   : localhost:8070/admin/task/assign/658da56a954b6a29b867ad31
+- View the task   : localhost:8070/student/tasks/658da56a954b6a29b867ad31
+- Update the Task : localhost:8070/student/task/update/658d4da367ace02e7db0f182/658d554be9c007a3c39062d1
 <br/>
 
 ##  Technologies used
