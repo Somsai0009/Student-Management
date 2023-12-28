@@ -1,6 +1,5 @@
 <H1 align ="center" > MERN STUDENT MANAGEMENT SYSTEM </h1>
 <h5  align ="center"> 
-Fullstack open source student management system application made with MongoDB, Express, & Nodejs </h5>
 <br/>
 ## Configuration and Setup
 
