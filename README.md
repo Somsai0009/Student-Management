@@ -1,6 +1,5 @@
 High Level Design
-
-   ![Uploading Screenshot 2023-12-29 at 2.48.12 AM.png…]()
+<img width="830" alt="Screenshot 2023-12-29 at 3 53 11 AM" src="https://github.com/Somsai0009/Student-Management/assets/88903529/b1f250e4-2009-406e-a8d3-011e86eb5e94">
 - cd Backend and Set environment variables in .env
 - Create  mongoDB connection url, which you'll use as your MONGO_URL
 
